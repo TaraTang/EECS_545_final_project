@@ -3,7 +3,7 @@ import losses as los
 from tqdm import*
 
 #####################################
-# written by Yicheng Tao
+# 
 #####################################
 
 def comput_u_theta(X_dn):
