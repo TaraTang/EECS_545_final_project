@@ -4,7 +4,7 @@ from sklearn.linear_model import LogisticRegression
 import warnings
 
 #####################################
-# written by Yue Tang
+# 
 #####################################
 
 warnings.filterwarnings("ignore")
