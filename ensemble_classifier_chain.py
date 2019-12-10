@@ -1,5 +1,5 @@
 #####################################
-# written by Yue Tang
+# 
 #####################################
 
 from sklearn.multioutput import ClassifierChain
