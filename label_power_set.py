@@ -3,7 +3,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn import svm
 
 #####################################
-# written by Yicheng Tao
+# 
 #####################################
 
 
